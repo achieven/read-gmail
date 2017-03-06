@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/achieven/read-gmail#readme",
   "dependencies": {
+    "google-auth-library": "^0.10.0",
+    "googleapis": "^17.1.0",
     "mailin": "^3.0.4"
   }
 }
