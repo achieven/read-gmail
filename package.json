@@ -1,0 +1,23 @@
+{
+  "name": "readGmail",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/achieven/read-gmail.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/achieven/read-gmail/issues"
+  },
+  "homepage": "https://github.com/achieven/read-gmail#readme",
+  "dependencies": {
+    "mailin": "^3.0.4"
+  }
+}
