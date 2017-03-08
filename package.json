@@ -20,6 +20,8 @@
   "dependencies": {
     "google-auth-library": "^0.10.0",
     "googleapis": "^17.1.0",
-    "mailin": "^3.0.4"
+    "mailin": "^3.0.4",
+    "node-gmail-api": "^0.6.0",
+    "parse-gmail-email": "^1.0.1"
   }
 }
